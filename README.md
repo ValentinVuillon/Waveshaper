@@ -8,4 +8,5 @@ I created two version of the plug-in. In the "saturation" version, the used func
 
 In the "wavefolder" version, the used function is the following https://www.desmos.com/calculator/8pc1whasfg
 
+Remark: the only difference between the saturation and wavefolder version of the plug-in is DSP_functions.cpp. All other files are the same.
 
